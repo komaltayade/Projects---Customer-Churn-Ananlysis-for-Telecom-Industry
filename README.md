@@ -6,6 +6,7 @@ revenue and growth. With growing competition and low switching costs, telecom co
 and retain at-risk customers.
 This project focuses on analyzing customer behavior, uncovering churn patterns, and building a data-driven approach to
 support business decisions using machine learning and Power BI.
+
 Abstract
 The goal of this project is to perform an end-to-end churn analysis using a real-world telecom dataset. It includes:
 - Data preprocessing and exploratory data analysis (EDA)
@@ -14,12 +15,14 @@ The goal of this project is to perform an end-to-end churn analysis using a real
 - Interactive dashboard creation using Power BI for stakeholder insights
 By identifying the key drivers behind customer churn, this project provides meaningful insights and retention strategies
 to support business goals.
+
 Tools Used
 - Python: Data cleaning, feature engineering, EDA, model building
  - Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
 - Power BI: Dashboarding and visual reporting
 - Jupyter Notebook: Code development and experimentation
 - GitHub: Version control and project hosting
+  
 Steps Involved in Building the Project
 1. Data Collection
  - Used the Telco Customer Churn dataset from Kaggle.
