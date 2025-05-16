@@ -45,6 +45,8 @@ Customer Churn Analysis for Telecom Industry
  - Demographic and behavioral trends
  - KPIs (average tenure, complaints, call wait time)
  - Designed for non-technical stakeholders to explore data and insights
+
+   
 Conclusion
 This project successfully identifies key drivers of customer churn in a telecom business using machine learning and
 visual storytelling. The combination of Random Forest modeling and an interactive Power BI dashboard enables
