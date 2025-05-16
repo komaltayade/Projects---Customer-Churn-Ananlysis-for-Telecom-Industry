@@ -7,7 +7,7 @@ and retain at-risk customers.
 This project focuses on analyzing customer behavior, uncovering churn patterns, and building a data-driven approach to
 support business decisions using machine learning and Power BI.
 
-Abstract
+Abstract : 
 The goal of this project is to perform an end-to-end churn analysis using a real-world telecom dataset. It includes:
 - Data preprocessing and exploratory data analysis (EDA)
 - Machine learning model development to classify customers likely to churn
@@ -50,6 +50,6 @@ Customer Churn Analysis for Telecom Industry
  - Designed for non-technical stakeholders to explore data and insights
 
    
-Conclusion
+Conclusion : 
 This project successfully identifies key drivers of customer churn in a telecom business using machine learning and
 visual storytelling. The combination of Random Forest modeling and an interactive Power BI dashboard enables
